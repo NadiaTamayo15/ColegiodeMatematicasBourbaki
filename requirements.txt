@@ -1,0 +1,13 @@
+# Dependencias mínimas para descargar y usar el dataset COMPAS en este repo
+kaggle>=1.5.12
+pandas>=1.4
+scikit-learn>=1.0
+xgboost>=1.6
+shap>=0.41
+numpy>=1.21
+matplotlib>=3.5
+seaborn>=0.11
+lime>=0.2.0.1
+notebook>=6.4
+ipykernel>=6.0
+scipy>=1.7
